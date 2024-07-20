@@ -1,0 +1,6 @@
+__pycache__/
+bots/__pycache__/
+env/
+dump.rdb
+db.sqlite3
+static/
